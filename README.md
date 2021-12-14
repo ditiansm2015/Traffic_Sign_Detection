@@ -34,9 +34,10 @@
      Color band   - 3 (Red, Green, Blue)
      Image size   - 32 * 32
      Total number of classes - 43
-     Training set size   - 22271 images
-     Validation ser size - 5568  images
-     Test set size       - 6960  images
+     Training set size   - 22271 images 
+     Test set size       - 6960  images (20% of the total dataset) 
+     Validation set size - 5568  images (20% of the remaining dataset(after excluding test set))
+     
      
  **2. About Model**
  
