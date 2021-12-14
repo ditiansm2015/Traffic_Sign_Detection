@@ -40,7 +40,7 @@
      
  **2. About Model**
  
-      Model used - Convolutional Neural Network
-      Probability Threshold - 75%
-     
+     Model used - Convolutional Neural Network
+     Probability Threshold - 75%
+      
      
